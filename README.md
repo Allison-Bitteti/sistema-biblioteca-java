@@ -33,20 +33,20 @@ Projeto desenvolvido com o objetivo de praticar **Orientação a Objetos em Java
 <pre>
 src
 └── biblioteca
-├── model
-│ ├── Pessoa.java
-│ ├── Usuario.java
-│ ├── Funcionario.java
-│ ├── Livro.java
-│ ├── Emprestimo.java
-│ ├── TipoLivro.java
-│ └── StatusEmprestimo.java
-│
-├── service
-│ └── Relatorio.java
-│
-└── test
-└── Main.java
+    ├── model
+    │   ├── Pessoa.java
+    │   ├── Usuario.java
+    │   ├── Funcionario.java
+    │   ├── Livro.java
+    │   ├── Emprestimo.java
+    │   ├── TipoLivro.java
+    │   └── StatusEmprestimo.java
+    │
+    ├── service
+    │   └── Relatorio.java
+    │
+    └── test
+        └── Main.java
 </pre>
 
 ---
@@ -133,4 +133,5 @@ Mostra as funcionalidades do sistema sob a perspectiva do usuário.
 ## 👤 Autor
 
 Allison Bitteti
+
 Projeto desenvolvido para fins de estudo e portfólio.

@@ -30,6 +30,7 @@ Projeto desenvolvido com o objetivo de praticar **Orientação a Objetos em Java
 
 ## 🏗️ Estrutura do projeto
 
+<pre>
 src
 └── biblioteca
 ├── model
@@ -46,6 +47,7 @@ src
 │
 └── test
 └── Main.java
+</pre>
 
 ---
 
@@ -63,6 +65,7 @@ Representa a estrutura estática do sistema, incluindo:
 - Classe de serviço para geração de relatórios
 
 📌 **Arquivo:** `docs/diagramas/classes.png`
+
 📷 Pré-visualização:
 ![Diagrama de Classes](docs/diagramas/classes.png)
 
@@ -75,6 +78,7 @@ Demonstra a interação entre os objetos durante:
 - Geração do relatório
 
 📌 Arquivo: `docs/diagramas/sequencia-emprestimo.png`
+
 ![Diagrama de Classes](docs/diagramas/sequencia-emprestimo.png)
 
 ### 🔁 Diagrama de Atividade – Fluxo de Empréstimo
@@ -86,6 +90,7 @@ Ilustra o fluxo de atividades do processo de empréstimo, incluindo:
 - Atualização do status
 
 📌 Arquivo: `docs/diagramas/atividade-emprestimo.png`
+
 ![Diagrama de Classes](docs/diagramas/atividade-emprestimo.png)
 
 ### 📦 Diagrama de Pacotes
@@ -97,6 +102,7 @@ Apresenta a organização do projeto em camadas, separando:
 - Camada de execução/teste
 
 📌 Arquivo: `docs/diagramas/pacotes.png`
+
 ![Diagrama de Classes](docs/diagramas/pacotes.png)
 
 ### 👤 Diagrama de Casos de Uso
@@ -104,6 +110,7 @@ Apresenta a organização do projeto em camadas, separando:
 Mostra as funcionalidades do sistema sob a perspectiva do usuário.
 
 📌 Arquivo: `docs/diagramas/casos-uso.png`
+
 ![Diagrama de Classes](docs/diagramas/casos-uso.png)
 
 ## ▶️ Como executar
